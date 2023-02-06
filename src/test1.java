@@ -32,6 +32,8 @@ public class test1 {
 			System.out.println("postJira7");
 			System.out.println("postJira8");
 			
+			System.out.println("Now merge with master branch");
+			
 		}
 	
 	}
