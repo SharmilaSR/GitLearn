@@ -20,6 +20,9 @@ public class test1 {
 				count++;
 			}
 			System.out.println(count);
+			System.out.println(count+'2');
+			System.out.println("postJira");
+			System.out.println("postJira2");
 		}
 	}
 
